@@ -1,0 +1,1 @@
+analyze the data in this file. Focus on the following insights: average delivery timeline by risk level, on-time delivery rate for delayed components, supplier performance breakdown
