@@ -1,1 +1,0 @@
-summarize the attached meeting transcript using the context of the meeting agenda in the .msg file. 
