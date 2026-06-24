@@ -25,20 +25,20 @@ It combines data analysis, stakeholder alignment, and actionable remediation pla
 ## 📄 Key Artifacts
 
 ### `docs/`
-- **Email Summary** → Problem definition, critical issues, next steps 【1-97a6dc】  
-- **Issues Review** → Business impact across BIND567, COMP042, COMP043 【2-f0ceae】  
-- **Meeting Summary** → Agenda-aligned recap with decisions and ownership 【3-2604fb】  
-- **Analysis Report** → Data-driven insights, risks, and mitigation strategies 【4-48c715】  
-- **Action Plan** → Execution plan with owners and timelines 【5-87203c】  
+- **Email Summary** → Problem definition, critical issues, next steps
+- **Issues Review** → Business impact across BIND567, COMP042, COMP043 
+- **Meeting Summary** → Agenda-aligned recap with decisions and ownership
+- **Analysis Report** → Data-driven insights, risks, and mitigation strategies
+- **Action Plan** → Execution plan with owners and timelines  
 
 ### `data/`
-- **Expanded Supply Chain Metrics** → Core dataset (50 components, supplier performance, risk levels) 【6-3df937】  
+- **Expanded Supply Chain Metrics** → Core dataset (50 components, supplier performance, risk levels)
 
 ### `presentation/`
-- **Compliance Report (PPT)** → Executive summary of risks, metrics, and actions 【7-d17104】  
+- **Compliance Report (PPT)** → Executive summary of risks, metrics, and actions 
 
 ### `meeting/`
-- **Meeting Invite (MSG/PDF)** → Objective, agenda, and stakeholder alignment plan 【8-f50daa】  
+- **Meeting Invite (MSG/PDF)** → Objective, agenda, and stakeholder alignment plan
 
 ### `prompts/`
 - Copilot prompts used to generate each artifact (traceability + reproducibility)
@@ -65,4 +65,3 @@ Copilot was used to:
 ## 👤 Author
 Virginia Quiros  
 Technical Product Owner – IT
-```
