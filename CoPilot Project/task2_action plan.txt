@@ -1,0 +1,1 @@
+generate a word document containing an action plan based on the transcript summary. Ensure the action plan contains general strategies, immediate actions, short-term actions (1-3 weeks) and ongoing actions. include action owners and due dates
