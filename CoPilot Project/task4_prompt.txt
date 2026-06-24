@@ -1,0 +1,1 @@
+use /Supply Chain Issue Analysis Report.docx to generate a presentation called "Supply Chain Issue Compliance Report". ensure this accurately reflects the data in /Expanded_SupplyChainMetrics.xlsx  and has a professional look and feel. Add concise speaker notes
