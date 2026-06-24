@@ -1,1 +1,0 @@
-Generate a "Supply Chain Issue Analysis Report" by merging /Supply Chain Issue Template.docx with the analysis done in /Expanded_SupplyChainMetrics.xlsx
