@@ -25,20 +25,20 @@ It combines data analysis, stakeholder alignment, and actionable remediation pla
 ## 📄 Key Artifacts
 
 ### `docs/`
-- **Email Summary** → Problem definition, critical issues, next steps
-- **Issues Review** → Business impact across BIND567, COMP042, COMP043 
-- **Meeting Summary** → Agenda-aligned recap with decisions and ownership
-- **Analysis Report** → Data-driven insights, risks, and mitigation strategies
-- **Action Plan** → Execution plan with owners and timelines  
+- **Email Summary** → Problem definition, critical issues, next steps (Task 1)
+- **Issues Review** → Business impact across BIND567, COMP042, COMP043 (Task 1)
+- **Meeting Summary** → Agenda-aligned recap with decisions and ownership (Task 2)
+- **Analysis Report** → Data-driven insights, risks, and mitigation strategies (Task 3)
+- **Action Plan** → Execution plan with owners and timelines  (Task 2)
 
 ### `data/`
-- **Expanded Supply Chain Metrics** → Core dataset (50 components, supplier performance, risk levels)
+- **Expanded Supply Chain Metrics** → Core dataset (50 components, supplier performance, risk levels) (Task 3)
 
 ### `presentation/`
-- **Compliance Report (PPT)** → Executive summary of risks, metrics, and actions 
+- **Compliance Report (PPT)** → Executive summary of risks, metrics, and actions (Task 4)
 
 ### `meeting/`
-- **Meeting Invite (MSG/PDF)** → Objective, agenda, and stakeholder alignment plan
+- **Meeting Invite (MSG/PDF)** → Objective, agenda, and stakeholder alignment plan (Task 2)
 
 ### `prompts/`
 - Copilot prompts used to generate each artifact (traceability + reproducibility)
