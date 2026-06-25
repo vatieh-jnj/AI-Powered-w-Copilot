@@ -1,1 +1,1 @@
-create a meeting invite titled "Supply Chain Issues Review". Include a clear agenda based on the previously generated summary. Include on the invite any relevant stakeholders. If not already included in the original email, suggest additional stakeholders that should be looped in.
+create a meeting titled "Supply Chain Issues Review". Include a clear agenda based on the previously generated summary. Suggest invitees based on the original email and any additional releant stakeholders that should be looped in.
